@@ -1,0 +1,264 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/u15/c5/00/mathur15/Lab3/Part3
+vALU
+Z1 !s110 1528147097
+!i10b 1
+!s100 5Fioa5JDS=6[G157HfX<I3
+IFCi9C1=_a]bmoNL>Al?M33
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1527990459
+Z4 8ALU.v
+Z5 FALU.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1528147096.000000
+Z8 !s107 ALU.v|
+Z9 !s90 -reportprogress|300|ALU.v|-timescale|1ns/1ns|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+n@a@l@u
+vALU7to1
+R1
+!i10b 1
+!s100 gFXTPPi@[7Joj^E`4S?L83
+I;gC`B?dmh9z<TM?gUY;041
+R2
+R0
+R3
+R4
+R5
+L0 90
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u7to1
+vfulladder
+R1
+!i10b 1
+!s100 C05Vfb`:7J4?QTLS0mFaQ0
+I93:IIBVG:VUQ@3hk7Mo<d2
+R2
+R0
+R3
+R4
+R5
+L0 178
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhexdisplay
+R1
+!i10b 1
+!s100 P1=od@@_ei`;ZF4:77n2n1
+I:k<MnRDWJLQJS>]HnjQS<2
+R2
+R0
+R3
+R4
+R5
+L0 187
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrippleadder
+R1
+!i10b 1
+!s100 D[W:O<51PP?CeO4NX7ob<3
+I<C5j?IQAfnKKCgf83Dk1D3
+R2
+R0
+R3
+R4
+R5
+L0 148
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_0
+R1
+!i10b 1
+!s100 O]Bk3T3??VnHE2fjZa^9N1
+I`lh>iO7laZZYA5a^^oia^3
+R2
+R0
+R3
+R4
+R5
+L0 241
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_1
+R1
+!i10b 1
+!s100 W?0nCW]_jDSf7XG;8aQS;1
+I:Z2EOm>^enfzjBiGKK56h0
+R2
+R0
+R3
+R4
+R5
+L0 253
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_2
+R1
+!i10b 1
+!s100 _YFL`k[7l5;SOmRB1FJnd1
+IiPFdHiYY`?NL@K;USdjj>1
+R2
+R0
+R3
+R4
+R5
+L0 265
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_3
+R1
+!i10b 1
+!s100 fSbSVXPXKIhYeKIa1][n_2
+IU^B?6bgID5CJ;Bi6gIC6T0
+R2
+R0
+R3
+R4
+R5
+L0 277
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_4
+R1
+!i10b 1
+!s100 9jOm=][=Bk`bUba7aBSXM3
+I4GTELSSdULz2>]NR?@S7C0
+R2
+R0
+R3
+R4
+R5
+L0 289
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_5
+R1
+!i10b 1
+!s100 >58lUJeI`<V1AfETLPJ6G0
+Ic5FIX7;YX?D?D3i48`DNR0
+R2
+R0
+R3
+R4
+R5
+L0 301
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsegment_6
+R1
+!i10b 1
+!s100 @H@Zb_hEQ@iZBVBc@BTRh3
+I7@TN8T;]OD0X=>CAT:nOO3
+R2
+R0
+R3
+R4
+R5
+L0 313
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

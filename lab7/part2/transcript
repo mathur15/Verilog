@@ -1,0 +1,20 @@
+cd lab7
+# couldn't change working directory to "lab7": no such file or directory
+cd part2
+# couldn't change working directory to "part2": no such file or directory
+do part2.do
+ls
+# black.mif
+# db
+# output_files
+# part2.do
+# part2.qpf
+# part2.qsf
+# part2.qws
+# part.do
+# transcript
+# updated_part2.v
+# updated_part2.v.bak
+# vga_adapter
+do part2.do
+do part2.do

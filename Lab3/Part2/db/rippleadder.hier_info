@@ -1,0 +1,63 @@
+|rippleadder
+LEDR[0] <= fulladder:u0.S
+LEDR[1] <= fulladder:u1.S
+LEDR[2] <= fulladder:u2.S
+LEDR[3] <= fulladder:u3.S
+LEDR[4] <= fulladder:u3.cout
+LEDR[5] <= <GND>
+LEDR[6] <= <GND>
+LEDR[7] <= <GND>
+LEDR[8] <= <GND>
+LEDR[9] <= <GND>
+SW[0] => SW[0].IN1
+SW[1] => SW[1].IN1
+SW[2] => SW[2].IN1
+SW[3] => SW[3].IN1
+SW[4] => SW[4].IN1
+SW[5] => SW[5].IN1
+SW[6] => SW[6].IN1
+SW[7] => SW[7].IN1
+SW[8] => SW[8].IN1
+SW[9] => ~NO_FANOUT~
+
+
+|rippleadder|fulladder:u0
+A => S.IN0
+B => S.IN1
+B => cout.IN1
+cin => S.IN1
+cin => cout.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rippleadder|fulladder:u1
+A => S.IN0
+B => S.IN1
+B => cout.IN1
+cin => S.IN1
+cin => cout.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rippleadder|fulladder:u2
+A => S.IN0
+B => S.IN1
+B => cout.IN1
+cin => S.IN1
+cin => cout.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rippleadder|fulladder:u3
+A => S.IN0
+B => S.IN1
+B => cout.IN1
+cin => S.IN1
+cin => cout.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

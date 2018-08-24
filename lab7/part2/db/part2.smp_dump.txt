@@ -1,0 +1,8 @@
+
+State Machine - |part2|control:c0|current_state
+Name current_state.Load_y_color_wait current_state.Load_y_color current_state.Load_x_wait current_state.Load_x current_state.Draw 
+current_state.Load_x 0 0 0 0 0 
+current_state.Load_x_wait 0 0 1 1 0 
+current_state.Load_y_color 0 1 0 1 0 
+current_state.Load_y_color_wait 1 0 0 1 0 
+current_state.Draw 0 0 0 1 1 

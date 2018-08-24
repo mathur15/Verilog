@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/u15/c5/00/mathur15/Lab3/Part1
+vmux
+Z1 !s110 1528147723
+!i10b 1
+!s100 UdFY9>^2lH2ig=5c4<K7;2
+IF]z5[d_[JXlB:BaQe1YOS2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1527728621
+Z4 8mux7to1.v
+Z5 Fmux7to1.v
+L0 13
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1528147723.000000
+Z8 !s107 mux7to1.v|
+Z9 !s90 -reportprogress|300|mux7to1.v|-timescale|1ns/1ns|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vmux7to1
+R1
+!i10b 1
+!s100 2BKk1TJKg<7oZN0lInfQ=3
+IRAmn]K4XoacjbgohVgSN^0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
